@@ -8,4 +8,11 @@ This is a list of over 34,000 consumer reviews for Amazon products like the Kind
 
 ### Brief description on the features of the dataset
 There are 21 columns
-* id	 * name	* asins	* brand	* categories	* keys	* manufacturer	* reviews.date	* reviews.dateAdded	* reviews.dateSeen	* reviews.didPurchase	* reviews.doRecommend	* reviews.id	* reviews.numHelpful	* reviews.rating	* reviews.sourceURLs	* reviews.text	* reviews.title	* reviews.userCity	* reviews.userProvince	* reviews.username
+* id	 
+* name	
+* asins	
+* brand	
+* categories	
+* keys	
+* manufacturer	
+* reviews.date	* reviews.dateAdded	* reviews.dateSeen	* reviews.didPurchase	* reviews.doRecommend	* reviews.id	* reviews.numHelpful	* reviews.rating	* reviews.sourceURLs	* reviews.text	* reviews.title	* reviews.userCity	* reviews.userProvince	* reviews.username
