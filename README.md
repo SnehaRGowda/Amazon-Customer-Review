@@ -15,4 +15,17 @@ There are 21 columns
 * categories	
 * keys	
 * manufacturer	
-* reviews.date	*reviews.dateAdded	* reviews.dateSeen	* reviews.didPurchase	* reviews.doRecommend	* reviews.id	* reviews.numHelpful	* reviews.rating	* reviews.sourceURLs	* reviews.text	* reviews.title	* reviews.userCity	* reviews.userProvince	* reviews.username
+* reviews.date	
+* reviews.dateAdded	
+* reviews.dateSeen	
+* reviews.didPurchase	
+* reviews.doRecommend	
+* reviews.id	
+* reviews.numHelpful	
+* reviews.rating	
+* reviews.sourceURLs	
+* reviews.text	
+* reviews.title	
+* reviews.userCity	
+* reviews.userProvince	
+* reviews.username
