@@ -29,3 +29,18 @@ There are 21 columns
 * reviews.userCity	
 * reviews.userProvince	
 * reviews.username
+And we mainly use two columns that is reviews.text and reviews.rating
+
+### Link to the Dataset
+https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products?select=1429_1.csv
+
+### Installation
+Install the latest version of Anaconda for python 3 from this link (https://repo.anaconda.com/archive/) ,once you open the link, you'll find a long list of installers, choose the latest version and download the relevent OS installer and install it.
+
+To download the ipynb file from GitHub-
+
+* Click on Raw
+* Then, press ctrl+s to save it as .ipynb
+* Open jupyter notebook
+* Go to location where you saved .ipynb file
+* Open that file and start executing
