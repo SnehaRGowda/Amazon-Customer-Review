@@ -29,6 +29,7 @@ There are 21 columns
 * reviews.userCity	
 * reviews.userProvince	
 * reviews.username
+
 And we mainly use two columns that is reviews.text and reviews.rating
 
 ### Link to the Dataset
