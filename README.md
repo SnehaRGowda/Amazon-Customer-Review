@@ -48,4 +48,5 @@ To download the ipynb file from GitHub-
 
 ### Usage
 Customer reviews on Amazon products are important as they provide feedback regarding what they truly want. Which has to be analized to increase the sales and at the same time provide customer satisfaction. 
+
 This project is concerned on developing a sentiment model which deals with the customer reviews on amazon produts.
